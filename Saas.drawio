@@ -1,17 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2022-08-21T08:50:30.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="V4QWy3zGlKiZIoFbOUu_" version="20.2.5" type="github">
-  <diagram id="aIZ5gW9GnfGdU68Y1R8D" name="第 1 页">
-    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-08-21T15:38:47.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="0dwCShWDyZ5FdgIgNl8q" version="20.2.5" type="github" pages="2">
+  <diagram id="aIZ5gW9GnfGdU68Y1R8D" name="Saas">
+    <mxGraphModel dx="592" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CkXTwqjr4xv1SPGr4mUa-2" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 19px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;SaaS(Saftware as a service)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="60" width="280" height="50" as="geometry" />
+        <mxCell id="CkXTwqjr4xv1SPGr4mUa-2" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 19px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;SaaS(Saftware as a service)软件即 服务&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="60" width="370" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CkXTwqjr4xv1SPGr4mUa-4" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 19px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;SaaS化服务：随着公司有了一套完整的后台系统，为了拓展新的盈利方向，将已有的后台系统作为标准产品面向外部客户销售&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CkXTwqjr4xv1SPGr4mUa-4" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 19px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;SaaS化服务：随着公司有了一套完整的后台系统，为了拓展新的盈利方向，将已有的后台系统作为标准产品面向外部客户销售&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="100" width="560" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CkXTwqjr4xv1SPGr4mUa-5" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 19px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;商业意义：一种收入模式，客户通过互联网进行软件访问，并通常会按每月/年订阅的形式支付费用&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CkXTwqjr4xv1SPGr4mUa-5" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 19px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(255, 255, 255, 0.01); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;商业意义：一种收入模式，客户通过互联网进行软件访问，并通常会按每月/年订阅的形式支付费用&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="170" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-1" value="&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;特点：&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1、托管在远程服务器上&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2、通过互联网访问（浏览器或移动端）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3、用户不负责硬件或软件更新（统一维护）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;4、提供统一的服务和收费&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="565" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-2" value="&lt;div class=&quot;mind-clipboard&quot;&gt;SaaS框架&lt;div&gt;由管理平台、租户实例、用户界面三个部分组成&lt;/div&gt;&lt;div&gt;分别对应SaaS产品的&lt;b&gt;平台端、租户端、用户端&lt;/b&gt;三大功能模块&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="510" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="50" y="460" width="130" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#999999;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="96" y="480" width="38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-5" value="&lt;b&gt;管&lt;br&gt;理&lt;br&gt;平&lt;br&gt;台&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="85" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.62;dx=23;notch=0;fontFamily=Helvetica;fontSize=18;fillColor=#FFFFFF;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="190" y="540" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;strokeColor=#FF3333;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#FF66B3;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="480" width="38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-10" value="&lt;b&gt;租&lt;br&gt;户&lt;br&gt;实&lt;br&gt;例&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-13" value="实例A" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;strokeColor=#FF66B3;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="480" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-14" value="实例B" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;strokeColor=#FF66B3;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="540" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-15" value="。。。" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;strokeColor=#FF66B3;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="600" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fontFamily=Helvetica;fontSize=18;strokeColor=#3399FF;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="535" y="487.5" width="65" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fontFamily=Helvetica;fontSize=18;strokeColor=#3399FF;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="535" y="551.25" width="65" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fontFamily=Helvetica;fontSize=18;strokeColor=#3399FF;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="535" y="620" width="65" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;strokeColor=#3399FF;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="452.5" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-20" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#2072B8;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="770" y="470" width="57" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-21" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_android_proportional;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="660" y="510" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.laptop;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="646" y="574" width="74" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-23" value="&lt;b&gt;用&lt;br&gt;户&lt;br&gt;界&lt;br&gt;面&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="770" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k0aqzgG_CVzkpU_zugBt-25" value="SaaS租户和实例&lt;br&gt;&lt;br&gt;SaaS是基于一套标准软件系统，为多个不同客户提供服务。&lt;br&gt;1、SaaS的客户也叫做“租户”(&lt;font color=&quot;#ff3333&quot;&gt;多租户系统&lt;/font&gt;)&lt;br&gt;2、租户下的应用使用者即“用户”，租户给用户鉴权后用户才能使用;&lt;br&gt;&lt;br&gt;一般来说，不同租户之间的数据是互相隔离的，保证安全的同时也能适应差异化需求。&lt;br&gt;1、&lt;b&gt;软件系统&lt;/b&gt;加上这些&lt;b&gt;互相隔离的数据&lt;/b&gt;，构成了租户的“&lt;b&gt;实例&lt;/b&gt;”&lt;br&gt;2、SaaS平台通常按实例的使用时长向租户收取费用，形成“租约”(订阅)租约通常由:租户、租用内容、有效期等信息构成" style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="60" y="710" width="560" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2CKI4Ac8MLN_LXWyiPqN" name="BI系统">
+    <mxGraphModel dx="592" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3SkTUmkP1MbJw73BD9FH-1" value="&lt;font color=&quot;#000000&quot;&gt;BI系统，是Business Intelligence System首字母缩写，也叫数据分析系统。&lt;br&gt;BI系统是一款将数据从多数据源获取、集成、维护并存储，并基于基础数据，实现灵活调用及可视化展示的数据分析展示系统。&lt;br&gt;使用人员：产品经理、运营人员、数据分析师、业务线负责人等。&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Helvetica;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="610" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
